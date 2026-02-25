@@ -516,7 +516,7 @@ export default function App() {
             </div>
             <span className="font-bold text-sm tracking-tight text-gray-600">ResuMatch AI</span>
           </div>
-          <p className="text-sm text-gray-400">© 2026 ResuMatch AI. Powered by Gemini.</p>
+          <p className="text-sm text-gray-400">© 2026 ResuMatch AI. Powered by Eswar.</p>
           <div className="flex items-center gap-6">
             <a href="#" className="text-sm text-gray-400 hover:text-indigo-600 transition-colors">Privacy</a>
             <a href="#" className="text-sm text-gray-400 hover:text-indigo-600 transition-colors">Terms</a>
