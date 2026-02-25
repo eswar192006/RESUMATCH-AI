@@ -1,0 +1,5 @@
+{
+  "name": "ResuMatch AI",
+  "description": "AI-powered resume parser and job matching system that analyzes your skills against job descriptions using Gemini.",
+  "requestFramePermissions": []
+}
